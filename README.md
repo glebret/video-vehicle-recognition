@@ -12,9 +12,6 @@ To parse an URL.
 
 ```python Object_Detection_YouTube.py <URL> <Output_Filename.avi>```
 
-To parse a drone video for humans only.
-
-```python Drone_Human_Detection_Model.py <input_file_name> <output_file_name.avi>```
 
 
 :blue_heart:
