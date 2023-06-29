@@ -11,7 +11,3 @@ You can install all the used packages using.
 To parse an URL.
 
 ```python Object_Detection_YouTube.py <URL> <Output_Filename.avi>```
-
-
-
-:blue_heart:
